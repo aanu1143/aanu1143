@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Anand</h1>
-<h3>Full Stack Developer</h3>
+<h3 align='center'>Full Stack Developer</h3>
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
 
 [![HitCount](http://hits.dwyl.com/aanu1143/aanu1143.svg)](http://hits.dwyl.com/aanu1143/aanu1143)&emsp;![GitHub followers](https://img.shields.io/github/followers/aanu1143?style=social)
