@@ -2,8 +2,7 @@
 <h3 align='center'>Full Stack Developer</h3>
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
 
-[![HitCount](http://hits.dwyl.com/aanu1143/aanu1143.svg)](http://hits.dwyl.com/aanu1143/aanu1143)&emsp;![GitHub followers](https://img.shields.io/github/followers/aanu1143?style=social)
-
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=aanu1143.aanu1143)](https://visitor-badge.glitch.me/badge?page_id=aanu1143.aanu1143)&emsp;![GitHub followers](https://img.shields.io/github/followers/aanu1143?style=social)
 
 - :microscope: Learning web Technologies
 - :computer: Love building web applications
