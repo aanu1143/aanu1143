@@ -39,7 +39,7 @@
 ### Github stats:
 
 <a href="https://github.com/aanu1143/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aanu1143&show_icons=true&include_all_commits=true&theme=radical" alt="Anand's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aanu1143&show_icons=true&include_all_commits=true&theme=radical&count_private=true" alt="Anand's github stats" />
 </a>
 <a href="https://github.com/aanu1143/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanu1143&layout=compact&theme=radical" />
